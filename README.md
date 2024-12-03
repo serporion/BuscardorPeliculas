@@ -58,7 +58,7 @@ Las contribuciones son bienvenidas. Por favor, sigue las pautas estándar para c
 
 ## Pagina en producción
 
-https://github.com/serporion/BuscardorPeliculas
+https://serporion.github.io/BuscardorPeliculas/
 
 
 
